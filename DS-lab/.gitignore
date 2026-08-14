@@ -203,3 +203,5 @@ jupyter_notebook_config.json
 /ds/lib/
 /ds/share/
 /ds/pyvenv.cfg
+
+dsa-lab\
