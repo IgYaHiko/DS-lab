@@ -1,0 +1,8 @@
+Order_ID,Product,Category,Quantity,Price,Region
+301,Laptop,Electronics,3,55000,North
+302,Mouse,Accessories,10,800,South
+303,Keyboard,Accessories,7,1500,East
+304,Laptop,Electronics,2,55000,West
+305,Headphones,Accessories,8,2500,North
+306,Monitor,Electronics,4,18000,South
+307,Mouse,Accessories,12,800,East

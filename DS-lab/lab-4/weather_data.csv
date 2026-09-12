@@ -1,0 +1,10 @@
+Date,City,Temperature,Humidity,Rainfall
+2026-01-01,Delhi,18,65,0
+2026-01-02,Delhi,16,72,12
+2026-01-01,Mumbai,28,78,15
+2026-01-02,Mumbai,27,82,25
+2026-01-01,Chandigarh,14,68,5
+2026-01-02,Chandigarh,13,74,18
+2026-01-03,Delhi,20,60,8
+2026-01-03,Mumbai,29,76,0
+2026-01-03,Chandigarh,17,66,0
